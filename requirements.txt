@@ -1,0 +1,5 @@
+pyvi
+underthesea
+viet_text_tools
+keras
+tensorflow
